@@ -14,7 +14,7 @@ Requirements
 The following libraries are used in this project:
 
 Python 3.x
-Jupyter Notebook
+Google Colab
 NumPy
 Pandas
 Scikit-learn
